@@ -102,6 +102,6 @@
     "Safari >= 6"
   ],
   "dependencies": {
-    "jquery": ">=2.2.4"
+    "jquery": "^3.5.1"
   }
 }
